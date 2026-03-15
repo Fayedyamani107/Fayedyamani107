@@ -45,7 +45,7 @@ I'm a final-year Computer Science student at Universitas Pembangunan Jaya, deepl
 ### 📫 Connect with Me
 
 - 💼 **LinkedIn:** [fayed-yamani-76720b24b](https://www.linkedin.com/in/fayed-yamani-76720b24b/)
-- 📧 **Email:** (Isi email profesional lo di sini)
+- 📧 **Email:** Fayedyamani369@gmail.com
 - 📍 **Location:** South Tangerang, Indonesia
 
 ---
