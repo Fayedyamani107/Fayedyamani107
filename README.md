@@ -4,16 +4,16 @@
 
 ### Tech Stack
 
-- [cite_start]**Frontend:** React.js, Tailwind CSS, JavaScript, Figma [cite: 25, 44]
-- [cite_start]**Backend:** Node.js, PHP, MySQL 
-- [cite_start]**Others:** Python, Git, ESP32 (IoT) 
+- **Frontend:** React.js, Tailwind CSS, JavaScript, Figma [cite: 25, 44]
+- **Backend:** Node.js, PHP, MySQL 
+- **Others:** Python, Git, ESP32 (IoT) 
 
 ---
 
 ###  Projects & Experience
 
 - **Creator @ AyoBlajar!:** Developing and maintaining an edutech platform focused on modern learning experiences.
-- [cite_start]**Front-End Developer:** Built responsive landing pages and UI components using React and Tailwind[cite: 25, 27].
+- **Front-End Developer:** Built responsive landing pages and UI components using React and Tailwind[cite: 25, 27].
 - **IoT & Research:** Currently working on a document classification system using XGBoost and building smart home systems with ESP32.
 
 ---
@@ -26,5 +26,5 @@
 
 ###  Connect with Me
 
-- [cite_start]**LinkedIn:** [fayed-yamani-76720b24b](https://www.linkedin.com/in/fayed-yamani-76720b24b/) 
-- [cite_start]**Email:** fayedyamani369@gmail.com
+- **LinkedIn:** [fayed-yamani-76720b24b](https://www.linkedin.com/in/fayed-yamani-76720b24b/) 
+- **Email:** fayedyamani369@gmail.com
